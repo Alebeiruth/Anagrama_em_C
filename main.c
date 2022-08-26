@@ -56,9 +56,9 @@ int main() {
   }
     }
   
-  if (flag == 0){
+  if (flag == 1) {
     printf("Anagrama!");
-  } else if (flag = 1) {
+  } else {
     printf("Não Anagrama");
   }
 }
